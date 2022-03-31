@@ -16,26 +16,25 @@
 }
 
 .cabecalho_container{
+    align-items: center;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    align-items: center;
     width: 78%;
 }
 
 .cabecalho_nav{
+    align-items: center;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    
-    align-items: center;
     width: 24em
 }
 
 .cabecalho_nav-botoes{
+    align-items: center;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     width: 12em;
-    align-items: center;
 }
