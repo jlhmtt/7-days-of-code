@@ -1,0 +1,33 @@
+.cabecalho{
+    display: flex;
+    flex-direction: row;
+    padding: 1em 7em;
+    height: 80px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.cabecalho_logo{
+    height: 27px;
+}
+
+.cabecalho_container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 75%;
+}
+
+.cabecalho_nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 24em
+}
+
+.cabecalho_nav-botoes{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 10em
+}
