@@ -1,0 +1,32 @@
+.sobre {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    height: 12.75em;
+    padding: 6.25em 20em;
+    font-family: "Inter", sans-serif;
+    text-align: center;
+}
+
+.sobre_p {
+    font-size: var(--tamanho-sobre-p);
+    font-weight: 600;
+    color: var(--vermelho);
+    line-height: 24px;
+}
+
+.sobre_titulo {
+    font-size: var(--tamanho-h1);
+    font-weight: 600;
+    color: var(--preto);
+    line-height: 60px;
+    letter-spacing: -0.02em;
+}
+
+.sobre_texto {
+    font-size: var(--tamanho-sobre-texto);
+    font-weight: 400;
+    color: var(--cinza);
+    line-height: 30px;
+}

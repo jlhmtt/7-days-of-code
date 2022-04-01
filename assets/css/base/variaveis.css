@@ -1,8 +1,13 @@
 :root {
     --cinza: #667085;
+    --preto: #101828;
     --vermelho: #8E2424;
 
     --tamanho-nav: 16px;
+    --tamanho-h1: 48px;
+    --tamanho-h2: 44px;
+    --tamanho-sobre-p: 16px;
+    --tamanho-sobre-texto: 20px;
 
     --peso-nav: 500;
 }

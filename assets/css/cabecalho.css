@@ -1,21 +1,20 @@
-.cabecalho{
+.cabecalho {
     align-items: center;
     display: flex;
     flex-direction: row;
-    font-family: 'Inter', sans-serif;
+    font-family: "Inter", sans-serif;
     font-size: 16px;
     font-weight: var(--peso-nav);
     color: var(--cinza);
-    height: 80px;
     justify-content: space-between;
     padding: 1em 7em;
 }
 
-.cabecalho_logo{
+.cabecalho_logo {
     height: 27px;
 }
 
-.cabecalho_container{
+.cabecalho_container {
     align-items: center;
     display: flex;
     flex-direction: row;
@@ -23,15 +22,15 @@
     width: 78%;
 }
 
-.cabecalho_nav{
+.cabecalho_nav {
     align-items: center;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    width: 24em
+    width: 24em;
 }
 
-.cabecalho_nav-botoes{
+.cabecalho_nav-botoes {
     align-items: center;
     display: flex;
     flex-direction: row;
