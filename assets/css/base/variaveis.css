@@ -5,10 +5,12 @@
 
     --tamanho-nav: 16px;
     --tamanho-h1: 48px;
-    --tamanho-h2: 60px;
-    --tamanho-h3: 44px;
     --tamanho-sobre-p: 16px;
     --tamanho-sobre-texto: 20px;
+    --tamanho-h2: 60px;
+    --tamanho-metricas-titulo: 18px;
+    --tamanho-metricas-texto: 16px;
+    --tamanho-h3: 44px;
 
     --peso-nav: 500;
 }

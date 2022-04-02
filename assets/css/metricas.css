@@ -1,5 +1,37 @@
 .metricas {
     display: flex;
+    font-family: "Inter", sans-serif;
     justify-content: space-between;
     padding: 0 7em;
+    padding-bottom: 6em;
+}
+
+.metricas_div {
+    display: flex;
+    flex-direction: column;
+    height: 12em;
+    width: 17.5em;
+}
+
+.metricas_numero {
+    color: var(--vermelho);
+    font-size: var(--tamanho-h2);
+    font-weight: 600;
+    line-height: 72px;
+    margin-bottom: 0.75rem;
+}
+
+.metricas_titulo {
+    color: var(--preto);
+    font-size: var(--tamanho-metricas-titulo);
+    font-weight: 500;
+    line-height: 28px;
+    margin-bottom: 0.5rem;
+}
+
+.metricas_texto {
+    color: var(--cinza);
+    font-size: var(--tamanho-metricas-texto);
+    font-weight: 400;
+    line-height: 24px;
 }
