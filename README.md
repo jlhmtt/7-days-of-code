@@ -27,3 +27,15 @@ Eu abri o site pelo Github Pages e a logo não aparecia de jeito nenhum. Depois 
 Eu consertei essas duas coisas e ficou tudo bonitinho (:
 
 E é isso por hoje! Ansiosa pra terminar esse projeto <3
+
+# Dia 3 - Métricas
+
+Hoje foi bem tranquilo de novo! Esse projeto tá me dando bastante confiança. Por mais que nenhuma das tarefas diárias tenha sido super difícil (até agora), é muito bom saber que eu consigo fazer tudo isso sozinha. Também é bom saber que eu tenho autonomia pra pesquisar sobre o que eu não sei ainda, eu consigo encontrar as respostas pra qualquer problema que eu encontre. Enfim.
+
+Hoje foi parecido com ontem, a única diferença foi que ao invés de um container só foram 4. De novo, fiquei fazendo vários cálculos de pixel pra EM ou REM, mas parece que foi automático, sabe? Ontem eu fiquei quebrando a cabeça pra entender que cálculo eu tinha que fazer, hoje já tava tudo certinho na minha cabeça. Mais um orgulho pra lista.
+
+Outra coisa boa que eu percebi hoje foi que eu tô entendendo melhor onde usar margin e onde usar justify-content: space-between (ou alguma outra variação disso).
+Acho que é bem natural isso, quando a gente aprende flex a gente acha que tem que usar em todo lugar, a mesma coisa pra grid, etc.
+Hoje eu usei flex pra uma coisa, margin pra outra, sem esse impulso de querer colocar o flex onde ele não cabia.
+
+E é isso por hoje! (: (: (:
