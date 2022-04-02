@@ -18,3 +18,12 @@ Pra fechar, algo que eu devia ter descobrido antes: Github é muito mais fácil 
 E é isso por hoje! Terminando o dia 1 com um sorriso no rosto (:
 
 # Dia 2 - Sobre nós
+
+Hoje foi bem tranquilinho. A parte do Sobre Nós foi só pôr um flex column, centralizar tudo, adicionar algumas variáveis (de cor e tamanho das fontes) no root, e fechou.
+O trabalho maior foi fazer algumas contas pra saber exatamente quantos EM eu tinha que colocar de altura na section (que engloba todos os textos diferentes, o título, o texto e a legendinha no topo) pra ficar com a margem certinha, bem fiel ao arquivo do Figma.
+
+Na verdade, a maior dificuldade hoje foi entender o que eu tinha feito de errado ontem!
+Eu abri o site pelo Github Pages e a logo não aparecia de jeito nenhum. Depois de pesquisar e bater a cabeça um pouquinho, eu descobri que o Github 1. não reconhece arquivos e pastas que comecem com um _ e 2. reconhece caminhos assim "./nomedapasta/imagem.png", não assim "nomedapasta/imagem.png".
+Eu consertei essas duas coisas e ficou tudo bonitinho (:
+
+E é isso por hoje! Ansiosa pra terminar esse projeto <3
