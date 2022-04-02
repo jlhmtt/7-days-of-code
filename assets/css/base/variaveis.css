@@ -1,7 +1,9 @@
 :root {
     --cinza: #667085;
+    --cinza-borda: #eaecf0;
     --preto: #101828;
     --vermelho: #8e2424;
+    --vermelho-transparente: #8e24240d;
 
     --tamanho-nav: 16px;
     --tamanho-h1: 48px;
@@ -11,6 +13,11 @@
     --tamanho-metricas-titulo: 18px;
     --tamanho-metricas-texto: 16px;
     --tamanho-h3: 44px;
+    --tamanho-vagas-p: 14px;
+    --tamanho-vagas-texto: 20px;
+    --tamanho-vagas-area: 20px;
+    --tamanho-vaga: 18px;
+    --tamanho-vaga-detalhes: 16px;
 
     --peso-nav: 500;
 }
