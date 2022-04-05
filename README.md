@@ -1,5 +1,7 @@
 # 7 DAYS OF CODE
 
+Aviso: o código foi escrito com um monitor de 1440p em mente!
+
 Esse é um projeto proposto pela Alura com o intuito de praticar HTML e CSS em uma situação "verídica".
 A ideia é criar uma página de Sobre Nós (adicionando também seções como cultura da empresa, vagas abertas, etc.) com navegação, formulários e imagens.
 E, pra adicionar ainda mais a esse desafio, eu tô fazendo a minha primeira aparição no Github!
@@ -36,9 +38,18 @@ Outra coisa boa que eu percebi hoje foi que eu tô entendendo melhor onde usar m
 Acho que é bem natural isso, quando a gente aprende flex a gente acha que tem que usar em todo lugar, a mesma coisa pra grid, etc.
 Hoje eu usei flex pra uma coisa, margin pra outra, sem esse impulso de querer colocar o flex onde ele não cabia.
 
-# Dia 4 - Vagas
+# Dias 4 e 5 - Vagas
+
+Por pura animação, por não querer parar de codar, eu juntei os dias 4 e 5 em um só. A proposta era dividir a seção de vagas em duas partes, mas acabou que eu fiz tudo de uma vez só.
 
 Essa foi a seção mais desafiadora do site todo. Foram muitas divs, muitas sections, muitas margens, e foi um processo maravilhoso!
 Foi surpreendentemente divertido fazer essa parte da página. Descobrir qual era a melhor forma de nomear as classes (ainda acho que não dei os melhores nomes do mundo, mas tô aprendendo), além de várias coisas pequenininhas, tipo descobrir que dá pra preencher um item com borda usando background-color.
 
 Tô muito, muito, muito feliz com o processo de criação desse site. Por menor que seja esse projeto, tá sendo muito gratificante pra mim.
+
+# Dia 6 - Depoimentos
+
+Hoje foi mais um desses dias em que eu tive que dedicar um tempo a entender onde usar margin, onde usar justify-content, etc. Essa foi uma das parted do site onde eu mais usei margin, porque tinham 5 elementos na página e eu tive que espaçar cada um de um jeito, então usei margin em tudo mesmo. O flex só serviu mesmo pra fazer flex-direction: column.
+
+Acho que é isso sobre os desafios de hoje!
+Tô cada dia mais confiante e animada pra continuar descobrindo o que eu consigo fazer (:
