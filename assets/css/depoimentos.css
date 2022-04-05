@@ -1,0 +1,6 @@
+.depoimento_container {
+    background-color: var(--vermelho-transparente);
+    border-radius: 1rem;
+    padding: 4rem;
+    margin: 0 7rem 7rem 7rem;
+}
