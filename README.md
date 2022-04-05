@@ -26,8 +26,6 @@ Na verdade, a maior dificuldade hoje foi entender o que eu tinha feito de errado
 Eu abri o site pelo Github Pages e a logo não aparecia de jeito nenhum. Depois de pesquisar e bater a cabeça um pouquinho, eu descobri que o Github 1. não reconhece arquivos e pastas que comecem com um _ e 2. reconhece caminhos assim "./nomedapasta/imagem.png", não assim "nomedapasta/imagem.png".
 Eu consertei essas duas coisas e ficou tudo bonitinho (:
 
-E é isso por hoje! Ansiosa pra terminar esse projeto <3
-
 # Dia 3 - Métricas
 
 Hoje foi bem tranquilo de novo! Esse projeto tá me dando bastante confiança. Por mais que nenhuma das tarefas diárias tenha sido super difícil (até agora), é muito bom saber que eu consigo fazer tudo isso sozinha. Também é bom saber que eu tenho autonomia pra pesquisar sobre o que eu não sei ainda, eu consigo encontrar as respostas pra qualquer problema que eu encontre. Enfim.
@@ -38,4 +36,9 @@ Outra coisa boa que eu percebi hoje foi que eu tô entendendo melhor onde usar m
 Acho que é bem natural isso, quando a gente aprende flex a gente acha que tem que usar em todo lugar, a mesma coisa pra grid, etc.
 Hoje eu usei flex pra uma coisa, margin pra outra, sem esse impulso de querer colocar o flex onde ele não cabia.
 
-E é isso por hoje! (: (: (:
+# Dia 4 - Vagas
+
+Essa foi a seção mais desafiadora do site todo. Foram muitas divs, muitas sections, muitas margens, e foi um processo maravilhoso!
+Foi surpreendentemente divertido fazer essa parte da página. Descobrir qual era a melhor forma de nomear as classes (ainda acho que não dei os melhores nomes do mundo, mas tô aprendendo), além de várias coisas pequenininhas, tipo descobrir que dá pra preencher um item com borda usando background-color.
+
+Tô muito, muito, muito feliz com o processo de criação desse site. Por menor que seja esse projeto, tá sendo muito gratificante pra mim.
