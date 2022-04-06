@@ -1,0 +1,51 @@
+.footer {
+    background-color: var(--fundo-form);
+    display: flex;
+    flex-direction: column;
+    font-family: "Inter", sans-serif;
+    padding: 6rem 21rem;
+    text-align: center;
+}
+
+.footer_titulo {
+    color: var(--preto);
+    font-size: var(--tamanho-h5);
+    font-weight: 600;
+    line-height: 44px;
+    letter-spacing: -0.02em;
+    margin-bottom: 1.25rem;
+}
+
+.footer_p {
+    color: var(--cinza);
+    font-size: var(--tamanho-form-p);
+    font-weight: 400;
+    margin-bottom: 2.5rem;
+}
+
+.footer_form {
+    align-items: center;
+    display: flex;
+    font-size: var(--tamanho-form);
+    justify-content: flex-start;
+    padding: 0 8.625rem;
+    margin-bottom: 2rem;
+}
+
+.footer_input {
+    padding: 0.75rem 1rem;
+    border-radius: 0.5rem;
+    margin-right: 1rem;
+    width: 21rem;
+}
+
+.footer_botao {
+    background-color: var(--vermelho);
+    color: #fff;
+    padding: 0.75rem 1rem;
+    border-radius: 0.5rem;
+}
+
+.footer_direitos {
+    color: var(--cinza);
+}
