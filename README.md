@@ -53,3 +53,10 @@ Hoje foi mais um desses dias em que eu tive que dedicar um tempo a entender onde
 
 Acho que é isso sobre os desafios de hoje!
 Tô cada dia mais confiante e animada pra continuar descobrindo o que eu consigo fazer (:
+
+# Dia 7 - Rodapé
+
+Finalmente, a última parte do site! Foram bem poucos elementos adicionados, mas um deles era um formulário (só com email e um botão de envio).
+Admito que eu não fazia formulários há muito tempo, então tive que dar uma pesquisada pra relembrar, mas no fim tive um resultado ótimo!
+
+Termino esses 7 dias super satisfeita e animadíssima pra participar de mais desafios da Alura.
