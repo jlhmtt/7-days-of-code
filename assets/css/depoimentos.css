@@ -1,5 +1,5 @@
 .depoimento_container {
-    background-color: var(--vermelho-transparente);
+    background-color: var(--fundo-depo);
     border-radius: 1rem;
     font-family: "Inter", sans-serif;
     margin: 0 7rem 7rem 7rem;

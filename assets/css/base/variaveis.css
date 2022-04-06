@@ -4,6 +4,8 @@
     --preto: #101828;
     --vermelho: #8e2424;
     --vermelho-transparente: #8e24240d;
+    --fundo-depo: #c3191908;
+    --fundo-form: #f9fafb;
 
     --tamanho-nav: 16px;
     --tamanho-h1: 48px;
@@ -25,6 +27,10 @@
     --tamanho-depo-p: 14px;
     --tamanho-depo-nome: 16px;
     --tamanho-depo-trabalho: 14px;
+
+    --tamanho-h5: 36px;
+    --tamanho-form-p: 20px;
+    --tamanho-form: 16px;
 
     --peso-nav: 500;
 }
